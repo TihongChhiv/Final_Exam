@@ -1,11 +1,16 @@
-# Product App
-Next.js 14
-This app shows
-1. MongoDB CRUD operations using Mongoose
-2. Client Components interacting with APIs
-3. Server Components Interacting with Server Actions
+# Final Exam – Customer CRUD (Next.js 14 + MongoDB)
 
-# Setup
-1. Define in .env the followings
-1.1 MONGODB_URI
-1.2 NEXT_PUBLIC_API_URL
+Live: **http://wad-6632088.eastasia.cloudapp.azure.com/fin-customer**
+
+## Features
+- Customer model: `name`, `dob`, `memberNumber`, `interests`
+- Full CRUD API with Next.js App Router
+- UI to List / Add / Edit / Delete
+- Customer Detail page (navigate from list)
+- Deployed under `basePath` **/fin-customer**
+
+---
+
+## Setup (Local)
+
+1) Create `.env`:
