@@ -11,6 +11,3 @@ Live: **http://wad-6632088.eastasia.cloudapp.azure.com/fin-customer**
 
 ---
 
-## Setup (Local)
-
-1) Create `.env`:
